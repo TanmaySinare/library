@@ -1,0 +1,7 @@
+2026-10-18 14:45:04 | user=admin | event=login-success role=Administrator
+2026-10-18 14:46:14 | user=admin | event=book-added
+2026-10-18 14:59:44 | user=admin | event=logout
+2026-10-19 11:34:51 | user=admin | event=login-success role=Administrator
+2026-10-19 11:35:52 | user=admin | event=book-added
+2026-10-19 11:37:31 | user=admin | event=member-registered
+2026-10-19 11:38:03 | user=admin | event=book-issued

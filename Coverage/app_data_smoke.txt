@@ -1,0 +1,23 @@
+Library Management System
+Data is stored in text files in the current project directory.
+
+===== LIBRARY MANAGEMENT SYSTEM LOGIN =====
+Username: Password: Welcome, admin (Administrator).
+
+========== LIBRARY MANAGEMENT SYSTEM ==========
+1.  Add book
+2.  View all books
+3.  Search books
+4.  Update book
+5.  Delete book [Administrator only]
+6.  Register member
+7.  View all members
+8.  Search members
+9.  Update member
+10. Delete member [Administrator only]
+11. Issue book
+12. Return book
+13. View transactions
+14. View fine details
+0.  Exit
+Enter your choice: Exiting Library Management System.
